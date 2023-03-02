@@ -120,5 +120,6 @@ Figure 5: Magnitude Square Coherence, Adaptation Flag, Near-end Signal, Y - esti
 # Bibliography
 [1] J. J. Shynk et al., “Frequency-domain and multirate adaptive filtering,” IEEE Signal processing
 magazine, vol. 9, no. 1, pp. 14–37, 1992.
+
 [2] T. Gänsler and J. Benesty, “A frequency-domain double-talk detector based on a normalized
 cross-correlation vector,” Signal Processing, vol. 81, no. 8, pp. 1783–1787, 2001.
